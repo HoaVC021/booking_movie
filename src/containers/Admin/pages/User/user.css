@@ -1,0 +1,11 @@
+.user__container {
+  flex: 4;
+  margin: 50px 20px 0px 50px;
+}
+.user__container .title {
+  font-size: 25px;
+  font-weight: bold;
+}
+.user__container .button__create {
+  margin: 20px 0px 20px 0px;
+}

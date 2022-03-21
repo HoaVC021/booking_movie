@@ -1,0 +1,25 @@
+/* * {
+  color: white;
+} */
+/* body {
+  background: #1a2129;
+} */
+.showdetail {
+  margin-bottom: 20px;
+  display: flex;
+  border-radius: 5px;
+  border: 1px solid #24708e;
+  color: white;
+}
+.favorite-icon,
+.location-icon {
+  transition: 0.35s ease-in-out;
+}
+.showdetail:hover .favorite-icon {
+  transition: 0.35s ease-in-out;
+  fill: tomato;
+}
+.showdetail:hover .location-icon {
+  transition: 0.35s ease-in-out;
+  fill: turquoise;
+}

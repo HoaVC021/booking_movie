@@ -1,0 +1,15 @@
+.auth__container{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://cutewallpaper.org/21/superman-hd-wallpaper-in-mobile/Superman-Wallpapers-Free-by-ZEDGE_tm_.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.login__form{
+    border-radius: 15px;
+}
